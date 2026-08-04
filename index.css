@@ -152,7 +152,7 @@ body{
     font-size: 20px;  
 }
 .right-body .button  a {
-    display: inline-block;
+    /* display: inline-block; */
     text-decoration: none;
     color: white;
     width: 250px;
@@ -169,7 +169,6 @@ body{
     justify-content: center;
     transition: .3s ease;
    
-    
 
 }
 .right-body .button :hover {
