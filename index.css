@@ -62,7 +62,7 @@ body{
     margin: 25px;
 }
 .comment .word {
-    color:  rgba(217, 215, 215, 0.914);
+   color:  rgba(217, 215, 215, 0.914);
    width: 90%;
    margin-left: 15px;
 
@@ -140,31 +140,20 @@ body{
 
 .degree2 .language1 {
     color: rgb(240, 62, 62);
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 20px;
-
 }
 .degree2 .language2 {
     color: rgb(209, 209, 53);
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 20px;
-
 }
 .degree2 .language3 {
     color:green;
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 20px;
-
 }
 .degree2 .language4 {
     color:blueviolet;
+}
+.degree2 .head {
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 20px;
-
+    font-size: 20px;  
 }
 .right-body .button  a {
     display: inline-block;
