@@ -127,7 +127,7 @@ body{
 .icon3 {
     color:blueviolet ;
 }
-.mark {
+.color .mark {
     display: flex;
     align-items: center;
 }
