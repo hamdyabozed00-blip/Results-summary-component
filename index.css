@@ -114,25 +114,21 @@ body{
     font-family: sans-serif;
 }
 .icon{
-    display: flex;
     color: rgb(240, 62, 62);
-    align-items: center;
 } 
 
 .icon1 {
-    display: flex;
     color:  rgb(209, 209, 53);
-    align-items: center;
     
 }
 .icon2 {
-    display: flex;
     color: green ;
-    align-items: center;
 }
 .icon3 {
-    display: flex;
     color:blueviolet ;
+}
+.mark {
+    display: flex;
     align-items: center;
 }
      
